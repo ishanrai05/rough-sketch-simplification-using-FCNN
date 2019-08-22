@@ -1,0 +1,1 @@
+height = width = 424
